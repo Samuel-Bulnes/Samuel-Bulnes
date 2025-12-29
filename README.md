@@ -17,19 +17,34 @@ Here are some ideas to get you started:
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-<h3 align="center">
+<h2 align="center">
   Hi, I'm Samuel Bulnes
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h2>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
----
-## 🛠 &nbsp;Tech Stack
+<h2>Web & Mobile Developer | Founder of Bulnes Tech</h2>
+<p> I am a passionate Web and Mobile Developer focused on creating modern, functional, and visually engaging digital experiences. I enjoy turning ideas into impactful technological solutions by combining clean design, performance, and purpose. </p>
 
-### 📱 Mobile Development
+<h2>🚀 What I Can Build</h2>
+<p>🌐 Web Applications
+
+📱 Mobile Applications
+
+🗄️ Database-Driven Systems
+
+⚙️ Software Solutions</p>
+
+<h2>🙌 Faith & Leadership </h2>
+<p>A committed Christian with a passion for leadership and service. I have experience participating in missions, events, and community initiatives that positively impact youth and children, integrating faith, values, and action.</p>
+
+---
+<h2>Tech Stack</h2>
+
+<h3>📱 Mobile Development </h3>
 
 **Cross-Platform**  
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
@@ -44,7 +59,7 @@ Here are some ideas to get you started:
 ![XML](https://img.shields.io/badge/XML-%23E34F26.svg?style=for-the-badge&logo=xml&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### 🔧 Languages
+<h3> 🔧 Languages </h3>
 
 **Core Programming**  
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -63,9 +78,8 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
-### 🖥️ Frameworks
+<h3> 🖥️ Frameworks </h3>
 
 **Mobile**  
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
@@ -74,7 +88,7 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge)
 
-### 📚 Libraries
+<h3> 📚 Libraries </h3>
 
 **AI / Data**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -83,8 +97,7 @@ Here are some ideas to get you started:
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🔧 Tools
-
+<h3> 🔧 Tools </h3>
 **Dev & Version Control**  
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
