@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ---
 <h2>Tech Stack</h2>
 
-<h3>📱 Mobile Development </h3>
+<h3> Mobile Development </h3>
 
 **Cross-Platform**  
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ![XML](https://img.shields.io/badge/XML-%23E34F26.svg?style=for-the-badge&logo=xml&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-<h3> 🔧 Languages </h3>
+<h3> Languages </h3>
 
 **Core Programming**  
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-<h3> 🖥️ Frameworks </h3>
+<h3> Frameworks </h3>
 
 **Mobile**  
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge)
 
-<h3> 📚 Libraries </h3>
+<h3> Libraries </h3>
 
 **AI / Data**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -97,7 +97,8 @@ Here are some ideas to get you started:
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-<h3> 🔧 Tools </h3>
+<h3> Tools </h3>
+
 **Dev & Version Control**  
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
