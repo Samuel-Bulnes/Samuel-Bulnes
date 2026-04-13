@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <!--Section 2 What I can do-->
 <h2>🚀 What I Can Build</h2>
 <p>
-   &emsp; Web Applications / Mobile Applications / Database-Driven Systems / Software Solutions
+   &emsp; Web Applications / Mobile Applications / Database-Driven Systems / Software Solutions / AI Development.
 </p>
 
 <!--Education and preparation  -->
